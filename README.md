@@ -89,7 +89,7 @@ Enhancing performance under challenging underwater conditions
 
 
 
-Applications
+### Applications
 Marine Biodiversity Monitoring
 Ocean Exploration
 Environmental Impact Assessment
@@ -99,7 +99,7 @@ Conservation Programs
 
 
 
-Future Work
+### Future Work
 Integration with edge computing devices
 Multi-species tracking
 3D underwater scene analysis
@@ -108,14 +108,14 @@ Large-scale biodiversity monitoring
 
 
 
-Authors
+### Authors
 SANJEY S
 Department of INFORMATION TECHNOLOGY
 
-License
+### License
 This project is licensed under the MIT License.
 
-Contact
+### Contact
 For questions or collaborations:
 Email: sanjey236@gmail.com
 GitHub: https://github.com/SANJEY2106
