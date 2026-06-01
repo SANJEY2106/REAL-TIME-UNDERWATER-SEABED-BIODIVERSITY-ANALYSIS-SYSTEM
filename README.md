@@ -77,3 +77,45 @@ The model was trained and evaluated using an annotated underwater biodiversity d
 ```bash
 git clone https://github.com/SANJEY2106/underwater-seabed-biodiversity-analysis.git
 cd underwater-seabed-biodiversity-analysis
+
+Results
+
+The enhanced CNN framework demonstrated improved performance for underwater biodiversity analysis by:
+
+Increasing detection accuracy
+Reducing false positives
+Improving classification reliability
+Enhancing performance under challenging underwater conditions
+
+
+
+Applications
+Marine Biodiversity Monitoring
+Ocean Exploration
+Environmental Impact Assessment
+Autonomous Underwater Vehicles (AUVs)
+Marine Research
+Conservation Programs
+
+
+
+Future Work
+Integration with edge computing devices
+Multi-species tracking
+3D underwater scene analysis
+Transformer-based architectures
+Large-scale biodiversity monitoring
+
+
+
+Authors
+SANJEY S
+Department of INFORMATION TECHNOLOGY
+
+License
+This project is licensed under the MIT License.
+
+Contact
+For questions or collaborations:
+Email: sanjey236@gmail.com
+GitHub: https://github.com/SANJEY2106
